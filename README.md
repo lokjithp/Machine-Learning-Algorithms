@@ -3,7 +3,7 @@
 Hi there, 
 
 These are various machine learning algorithms that are related to various supervised and unsupervised types of learning.
-These notebooks got few exercises from my lab sessions during my master's degree.
+These notebooks got the implementation of few algorithms that are widely used in the field of Machine Learning.
 
 K NEAREST NEIGHBORS:
 
